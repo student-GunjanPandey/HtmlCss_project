@@ -14,10 +14,13 @@ The styling of this Amazon clone will be similar to the original website. It wil
 
 SCREENSHOT:
 
-![Screenshot (181)](https://github.com/user-attachments/assets/f8dd5676-5a46-41e1-8529-0c70db2df555)
-![Screenshot (182)](https://github.com/user-attachments/assets/52242fe1-958f-4d33-a2c8-adfe525e08c3)
-![Screenshot (183)](https://github.com/user-attachments/assets/4fe59b3f-a496-4f4e-bdac-01be54103a48)
-![Screenshot (184)](https://github.com/user-attachments/assets/91f0840c-f1b9-489c-899b-bf7b175e33bc)
+![Screenshot (181)](https://github.com/user-attachments/assets/8e37735f-6e85-473c-a16b-9de1ed27850d)
+![Screenshot (182)](https://github.com/user-attachments/assets/28d0c00b-fa6a-479a-9c2f-43e38d62fe5b)
+![Screenshot (183)](https://github.com/user-attachments/assets/f792ab28-d250-4f44-b633-1fae3f78c680)
+![Screenshot (184)](https://github.com/user-attachments/assets/ff2f391e-1755-43f1-9929-51e4d0c17703)
+
+
+
 
 
 
